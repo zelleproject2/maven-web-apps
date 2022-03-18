@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.236.208.91:8081/repository/tri-fintechs/</url>
+	      <url>http://18.236.208.91:8081/repository/tri-fintech-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
